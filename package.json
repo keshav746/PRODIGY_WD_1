@@ -1,0 +1,21 @@
+{
+  "name": "responsive-landing-page",
+  "version": "1.0.0",
+  "description": "Interactive responsive landing page with navigation menu",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=/",
+    "start": "live-server --port=3000 --open=/"
+  },
+  "keywords": [
+    "responsive",
+    "landing-page",
+    "navigation",
+    "interactive"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
